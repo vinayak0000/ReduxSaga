@@ -1,2 +1,0 @@
-# ReduxSaga
-Created with CodeSandbox
